@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153420276226",
+    "project_id": "text-detector-221c7",
+    "storage_bucket": "text-detector-221c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153420276226:android:d6b211627ef10cf1b0bd1b",
+        "android_client_info": {
+          "package_name": "com.matrix_maeny.textdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153420276226-705do7qft9sd88bp7i1aue9h1u5n1k48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Xr10Lt3_4XMQ5fZqtCikSqUVUkLW0WU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153420276226-705do7qft9sd88bp7i1aue9h1u5n1k48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
